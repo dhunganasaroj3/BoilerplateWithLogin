@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="22px" height="12px" viewBox="0 0 22 12" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>Shape</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="rate-plans" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="list-rates-plans" transform="translate(-215.000000, -358.000000)" fill="#000000" fill-rule="nonzero">
+            <g id="Group-3" transform="translate(179.000000, 290.000000)">
+                <path d="M43,70.9998332 C43,72.1043083 42.1045175,73 40.9999583,73 C39.895566,73 39,72.1043917 39,70.9998332 C39,69.8955249 39.8954825,69 40.9999583,69 C42.1045175,69 43,69.8955249 43,70.9998332 Z M43,74 C46.9999687,74 51.0000313,74 55,74 C50.7707373,69.9058718 47.286727,70.0952488 43,74 Z M56.535625,71.0088125 L56.535625,75.5044063 L37.464375,75.5044063 L37.464375,68 L36,68 L36,79.9882812 L37.464375,79.9882812 L37.464375,78.4780625 L56.535625,78.4780625 L56.535625,80 L58,80 L58,71.0088125 L56.535625,71.0088125 Z" id="Shape"></path>
+            </g>
+        </g>
+    </g>
+</svg>

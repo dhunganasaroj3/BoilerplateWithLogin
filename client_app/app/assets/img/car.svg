@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="28px" height="16px" viewBox="0 0 28 10" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 39.1 (31720) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 11</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <circle id="path-1" cx="5.5" cy="6.5" r="1.5"></circle>
+        <mask id="mask-2" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="3" height="3" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <circle id="path-3" cx="21.5" cy="6.5" r="1.5"></circle>
+        <mask id="mask-4" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="3" height="3" fill="white">
+            <use xlink:href="#path-3"></use>
+        </mask>
+    </defs>
+    <g id="Home-page-v1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop-HD" transform="translate(-521.000000, -47.000000)">
+            <g id="header" transform="translate(70.000000, 16.000000)">
+                <g id="Group-11" transform="translate(449.000000, 29.000000)">
+                    <g id="Group-9" transform="translate(3.000000, 3.000000)">
+                        <g id="Group">
+                            <path d="M3.10456651,7.201 C3.10456651,7.201 3.30385714,4.24821429 5.6380936,4.19535714 C8.14325123,4.13857142 7.74460591,7.57571428 7.74460591,7.57571428 C10.477936,7.59942857 15.5424286,7.64642857 19.1595665,7.68028571 C19.1595665,7.68028571 18.9306256,4.31 21.5792315,4.3435 C24.0842611,4.37521429 23.7426748,7.61385714 23.7426748,7.61385714 C23.7426748,7.61385714 25.0805862,7.64557142 25.2798128,7.39157143 C25.7867487,6.74542858 26.5323596,5.67707143 25.3651773,4.2165 C24.196202,2.75371429 17.3377094,2.34321429 17.3377094,2.34321429 C17.3377094,2.34321429 14.5478325,0.0102857143 10.7620148,0.0571428572 C5.6380936,0.120642857 5.52423153,2.02571428 4.64176847,2.18442857 C3.75930542,2.34321429 0.968147783,2.06192857 0.741896552,2.75592857 C0.684965518,2.93057143 0.949640394,3.73842857 0.14408867,4.47042857 C-0.240211823,4.81971429 0.679458128,6.08357143 1.11191626,6.312 C1.6527931,6.59771428 1.88051724,6.72478571 3.10456651,7.201 Z" id="Shape" stroke="#5C5953" stroke-width="0.7" fill="#FFFFFF"></path>
+                            <g id="Shape" transform="translate(3.778325, 4.500000)"></g>
+                        </g>
+                        <use id="Oval-2" stroke="#5C5953" mask="url(#mask-2)" xlink:href="#path-1"></use>
+                        <use id="Oval-2-Copy" stroke="#5C5953" mask="url(#mask-4)" xlink:href="#path-3"></use>
+                    </g>
+                    <rect id="Rectangle-9" x="0" y="0" width="32" height="16"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

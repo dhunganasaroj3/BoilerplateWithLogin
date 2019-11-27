@@ -1,0 +1,11 @@
+{
+    "applinks": {
+        "apps": [],
+        "details": [
+            {
+                "appID": "KL28XELZ3Q.com.xceltrip.XcelTrip",
+                "paths": [ "/confirm/user/*", "/password-reset/user/*", "/invitation/user-register/*", "/partner/*", "/referral/*", "/vendor/register/user/*", "/email-update/verification/*"]
+            }
+        ]
+    }
+}

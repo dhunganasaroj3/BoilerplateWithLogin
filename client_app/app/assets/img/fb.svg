@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="12px" height="20px" viewBox="0 0 12 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 39.1 (31720) - http://www.bohemiancoding.com/sketch -->
+    <title>footer</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Home_slicing" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard" transform="translate(-401.000000, -2523.000000)" fill="#FFFFFF">
+            <g id="footer" transform="translate(-26.000000, 2196.000000)">
+                <g id="fb" transform="translate(427.000000, 327.000000)">
+                    <g id="Page-1">
+                        <g>
+                            <g id="fb">
+                                <g id="Page-1">
+                                    <g id="home-page">
+                                        <g id="footer">
+                                            <path d="M8,7.5 L12,7.5 L12,11.25 L8,11.25 L8,20 L4,20 L4,11.25 L0,11.25 L0,7.5 L4,7.5 L4,5.93125 C4,4.445 4.49866666,2.5675 5.49066666,1.54125 C6.48266667,0.5125 7.72133334,0 9.20533332,0 L12,0 L12,3.75 L9.2,3.75 C8.536,3.75 8,4.2525 8,4.87375 L8,7.5 L8,7.5 L8,7.5 L8,7.5 Z" id="Shape"></path>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

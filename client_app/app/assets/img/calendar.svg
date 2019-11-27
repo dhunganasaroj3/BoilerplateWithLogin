@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="49px" height="50px" viewBox="0 0 49 50" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 39.1 (31720) - http://www.bohemiancoding.com/sketch -->
+    <title>calendar-icon</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M48.0769231,17.2965425 L48.0769231,44.2419191 C48.0769231,47.4220194 45.4920989,50 42.3254765,50 L5.75144659,50 C2.57501035,50 0,47.4167078 0,44.2419191 L0,17.2965425 L0,17.2965425" id="path-1"></path>
+        <mask id="mask-2" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="48.0769231" height="32.7034575" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <rect id="path-3" x="0" y="7.69230769" width="48.0769231" height="38.4615385"></rect>
+        <mask id="mask-4" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="48.0769231" height="38.4615385" fill="white">
+            <use xlink:href="#path-3"></use>
+        </mask>
+        <rect id="path-5" x="0" y="7.69230769" width="48.0769231" height="34.6153846"></rect>
+        <mask id="mask-6" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="48.0769231" height="34.6153846" fill="white">
+            <use xlink:href="#path-5"></use>
+        </mask>
+        <rect id="path-7" x="13.4615385" y="0" width="1.92307692" height="17.3076923"></rect>
+        <mask id="mask-8" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="1.92307692" height="17.3076923" fill="white">
+            <use xlink:href="#path-7"></use>
+        </mask>
+        <rect id="path-9" x="32.6923077" y="0" width="1.92307692" height="17.3076923"></rect>
+        <mask id="mask-10" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="1.92307692" height="17.3076923" fill="white">
+            <use xlink:href="#path-9"></use>
+        </mask>
+        <rect id="path-11" x="0" y="0" width="9.61538462" height="1.92307692"></rect>
+        <mask id="mask-12" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="9.61538462" height="1.92307692" fill="white">
+            <use xlink:href="#path-11"></use>
+        </mask>
+        <rect id="path-13" x="1.92307692" y="5.76923077" width="7.69230769" height="1.92307692"></rect>
+        <mask id="mask-14" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="7.69230769" height="1.92307692" fill="white">
+            <use xlink:href="#path-13"></use>
+        </mask>
+        <rect id="path-15" x="0" y="11.5384615" width="9.61538462" height="1.92307692"></rect>
+        <mask id="mask-16" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="9.61538462" height="1.92307692" fill="white">
+            <use xlink:href="#path-15"></use>
+        </mask>
+        <rect id="path-17" x="7.69230769" y="0" width="1.92307692" height="13.4615385"></rect>
+        <mask id="mask-18" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="1.92307692" height="13.4615385" fill="white">
+            <use xlink:href="#path-17"></use>
+        </mask>
+    </defs>
+    <g id="Home-page-v1-Copy" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop-HD" transform="translate(-1032.000000, -1002.000000)" stroke="#585858" stroke-width="2">
+            <g id="main-content" transform="translate(-18.000000, 845.000000)">
+                <g id="calendar-icon" transform="translate(1050.000000, 157.000000)">
+                    <use id="Rectangle-25" mask="url(#mask-2)" xlink:href="#path-1"></use>
+                    <use id="Rectangle-25" mask="url(#mask-4)" xlink:href="#path-3"></use>
+                    <use id="Rectangle-25" mask="url(#mask-6)" xlink:href="#path-5"></use>
+                    <use id="Rectangle-58" mask="url(#mask-8)" xlink:href="#path-7"></use>
+                    <use id="Rectangle-58" mask="url(#mask-10)" xlink:href="#path-9"></use>
+                    <g id="number" transform="translate(19.230769, 19.230769)">
+                        <use id="Rectangle-115" mask="url(#mask-12)" xlink:href="#path-11"></use>
+                        <use id="Rectangle-115" mask="url(#mask-14)" xlink:href="#path-13"></use>
+                        <use id="Rectangle-115" mask="url(#mask-16)" xlink:href="#path-15"></use>
+                        <use id="Rectangle-118" mask="url(#mask-18)" xlink:href="#path-17"></use>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

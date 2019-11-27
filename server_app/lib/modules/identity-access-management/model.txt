@@ -1,0 +1,67 @@
+IAM User:
+
+username
+email
+auto_gen_password           bool
+custom_password
+reset_password_first_login      bool
+-------------------Set Permissions:
+group_ids [] if_exists
+policy_ids []
+
+
+
+
+access_type
+-------------------Summary and Review
+------------------------------------------------------
+
+
+IAM Groups
+
+
+group_name
+
+policy_ids
+
+
+-------------------Review
+
+---------------------------------------------
+
+Policies
+
+policy_name
+
+rules_ids
+
+
+
+----------------------------------
+
+rules
+
+rules_ids
+
+
+
+
+
+------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="22px" height="20px" viewBox="0 0 22 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 39.1 (31720) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 2</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M0,8.00220644 C0,3.58270986 3.58364365,0 8.00473896,0 L13.995261,0 C18.4161563,0 22,3.58449006 22,8.00220644 L22,8.99779356 C22,13.4172901 18.703473,16 18.703473,16 L18.703473,16 L19.7970927,20 L12.1,17 L8.00349197,17 C3.58328541,17 0,13.4155099 0,8.99779356 L0,8.00220644 Z" id="path-1"></path>
+        <mask id="mask-2" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="22" height="20" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+    </defs>
+    <g id="user-dashboard" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop-Landscape" transform="translate(-32.000000, -214.000000)" stroke="#FFFFFF">
+            <g id="Group-8" transform="translate(32.000000, 214.000000)">
+                <g id="Group-2">
+                    <use id="Rectangle-13" mask="url(#mask-2)" stroke-width="2" xlink:href="#path-1"></use>
+                    <path d="M5.5,6.5 L17.5415945,6.5" id="Line" stroke-linecap="square"></path>
+                    <path d="M5.5,8.5 L13.5,8.5" id="Line-Copy-2" stroke-linecap="square"></path>
+                    <path d="M5.5,10.5 L7.5,10.5" id="Line-Copy-3" stroke-linecap="square"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

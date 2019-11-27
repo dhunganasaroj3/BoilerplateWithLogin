@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="56px" height="54px" viewBox="0 0 56 54" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 39.1 (31720) - http://www.bohemiancoding.com/sketch -->
+    <title>star-icon</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M27.9426425,45.27023 L13.6032964,52.8088703 C11.1607899,54.092972 9.56082032,52.9179454 10.0253789,50.2093611 L12.7639503,34.2422646 L1.16317564,22.9343041 C-0.812853637,21.0081516 -0.189754695,19.1233869 2.52981853,18.7282098 L18.5616948,16.3986418 L25.7313678,1.8712975 C26.9526211,-0.603231886 28.937687,-0.593053893 30.1539171,1.8712975 L37.3235901,16.3986418 L53.3554664,18.7282098 C56.0862717,19.125019 56.690011,21.016074 54.7221093,22.9343041 L43.1213346,34.2422646 L45.859906,50.2093611 C46.3263833,52.9291321 44.7144488,54.0876904 42.2819885,52.8088703 L27.9426425,45.27023 Z" id="path-1"></path>
+        <mask id="mask-2" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="55.8705721" height="53.3103741" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+    </defs>
+    <g id="Home-page-v1-Copy" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop-HD" transform="translate(-171.000000, -1005.000000)" stroke="#585858" stroke-width="2">
+            <g id="main-content" transform="translate(-18.000000, 845.000000)">
+                <g id="star-icon" transform="translate(189.000000, 160.000000)">
+                    <use id="Star-3" mask="url(#mask-2)" xlink:href="#path-1"></use>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

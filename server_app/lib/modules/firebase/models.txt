@@ -1,0 +1,7 @@
+registrationToken
+deviceType
+notificationKey
+user_id
+device_detail
+platform
+

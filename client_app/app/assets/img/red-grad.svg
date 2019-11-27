@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="225px" height="130px" viewBox="0 0 225 130" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 46.2 (44496) - http://www.bohemiancoding.com/sketch -->
+    <title>Rectangle 2 Copy 3</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="100%" y1="50%" x2="-2.22044605e-14%" y2="50%" id="linearGradient-1">
+            <stop stop-color="#E49038" offset="0%"></stop>
+            <stop stop-color="#B02D56" offset="100%"></stop>
+        </linearGradient>
+        <polygon id="path-2" points="540 0 710 0 760 61.1445783 710 128 540 128 590 60"></polygon>
+    </defs>
+    <g id="imp-page-copy-2" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop-HD" transform="translate(-667.000000, -1256.000000)">
+            <g id="Group-2" transform="translate(130.000000, 1257.000000)">
+                <g id="Rectangle-2-Copy-3">
+                    <use fill="url(#linearGradient-1)" fill-rule="evenodd" xlink:href="#path-2"></use>
+                    <path stroke="#FFFFFF" stroke-width="1" d="M589.36521,60.0192767 L538.932479,-0.5 L710.237022,-0.5 L760.634647,61.1308308 L710.250424,128.5 L539.011737,128.5 L589.36521,60.0192767 Z"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
